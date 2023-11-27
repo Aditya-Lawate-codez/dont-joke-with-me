@@ -1,0 +1,17 @@
+p {
+    font-weight: bold;
+}
+
+form {
+    float: right;
+}
+
+button{
+    /* background-co
+    lor: #faa; */
+    padding: 4px;
+    border:2px solid blue;
+    border-radius: 50px;
+}
+*{
+margin:3px;}
